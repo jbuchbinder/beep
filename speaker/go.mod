@@ -1,11 +1,11 @@
-module github.com/faiface/beep/speaker
+module github.com/jbuchbinder/beep/speaker
 
 go 1.18
 
-replace github.com/faiface/beep => ../
+replace github.com/jbuchbinder/beep => ../
 
 require (
-	github.com/faiface/beep v0.0.0-00010101000000-000000000000
+	github.com/jbuchbinder/beep v0.0.0-00010101000000-000000000000
 	github.com/hajimehoshi/oto v1.0.1
 	github.com/pkg/errors v0.9.1
 )

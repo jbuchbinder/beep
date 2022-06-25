@@ -5,9 +5,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/faiface/beep"
-	"github.com/faiface/beep/mp3"
-	"github.com/faiface/beep/speaker"
+	"github.com/jbuchbinder/beep"
+	"github.com/jbuchbinder/beep/mp3"
+	"github.com/jbuchbinder/beep/speaker"
 )
 
 func main() {

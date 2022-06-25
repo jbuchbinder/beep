@@ -1,7 +1,7 @@
-module github.com/faiface/beep/effects
+module github.com/jbuchbinder/beep/effects
 
 go 1.18
 
-replace github.com/faiface/beep => ../
+replace github.com/jbuchbinder/beep => ../
 
-require github.com/faiface/beep v1.1.0
+require github.com/jbuchbinder/beep v1.1.0

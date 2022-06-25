@@ -7,7 +7,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/faiface/beep"
+	"github.com/jbuchbinder/beep"
 	"github.com/pkg/errors"
 )
 
